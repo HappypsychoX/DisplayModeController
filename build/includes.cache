@@ -1,0 +1,22 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\jeram\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.5\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\jeram\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.5\\variants\\mega"
+  },
+  {
+    "Sourcefile": "c:\\Users\\jeram\\OneDrive\\Documents\\Arduino\\Sketches\\DisplayModeController\\build\\sketch\\DisplayModeController.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Users\\jeram\\OneDrive\\Documents\\Arduino\\Sketches\\DisplayModeController\\build\\sketch\\DisplayModeController.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
